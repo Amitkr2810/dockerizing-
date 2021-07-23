@@ -12,6 +12,7 @@ docker-compose run web python manage.py migrate
 docker-compose up
 
 OR 
+
 //build docker image
 
 docker-compose build
